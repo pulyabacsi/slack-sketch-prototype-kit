@@ -1,12 +1,10 @@
+# Slack Prototype Kit - Sketch Library ( only for Slack Desktop Application )
 # slack-sketch-prototype-kit
-Slack Prototype Kit - Sketch Library ( only for Slack Desktop Application )
 
-Project Preview:
-https://dribbble.com/shots/6004268-Slack-Prototype-Kit-for-Sketch
-
-Details:
 Hi fellow designers! 
 Here is a Slack Prototype kit/library for Sketch to create prototypes easily for simple chat flows, bot conversations, popups, slack applications etc.
+Project Preview:
+https://dribbble.com/shots/6004268-Slack-Prototype-Kit-for-Sketch
 
 ---
 
